@@ -59,7 +59,7 @@ Whether your vision is big or small, you're in good company. Thousands of small 
 
 Upgrade to [Event Tickets Plus](https://evnt.is/18th) for full WooCommerce integration to use additional payment gateways.
 
-== 📃 Documentation ==
+== 📃 Documentation ====================================================
 
 All of our documentation can be found in [our knowledgebase](https://evnt.is/eu).
 
